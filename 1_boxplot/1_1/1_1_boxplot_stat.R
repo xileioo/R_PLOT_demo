@@ -2,7 +2,7 @@
 
 library(ggplot2)
 library(ggpubr)
-#setwd("D:/study/R/R_PLOT_demo/R_PLOT_demo/1_boxplot")
+#setwd("D:/study/R/R_PLOT_demo/R_PLOT_demo/1_boxplot/1_1")
 mydata <- read.table("1_1_boxplot_stat_input.txt",header = T,sep = "\t",stringsAsFactors = F)
 mydata <- na.omit(mydata)
 mydata$Group <- factor(mydata$Group,levels = c("Control","A","B","C"))
