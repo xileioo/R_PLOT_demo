@@ -1,0 +1,15 @@
+Group,Sample,value
+A,WT,9.5
+F,WT,9.5
+G,WT,9.5
+D,WT,9.1
+B,WT,9.3
+E,WT,9.1
+C,WT,8.8
+A,Mut,8.5
+F,Mut,7.7
+G,Mut,5
+D,Mut,8.7
+B,Mut,7.6
+E,Mut,5
+C,Mut,5

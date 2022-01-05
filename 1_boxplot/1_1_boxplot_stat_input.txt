@@ -1,0 +1,16 @@
+Group	Value
+Control	17.1
+Control	25.3
+Control	19.3
+Control	23.5
+A	38
+A	39.6
+A	42.3
+A	22.1
+B	38.7
+B	36.9
+B	33.1
+B	38.5
+C	43.5
+C	40.5
+C	39.7
