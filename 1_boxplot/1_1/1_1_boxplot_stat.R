@@ -23,8 +23,8 @@ ggplot(mydata, aes(Group,Value)) +
   theme(panel.grid = element_blank(),
         #legend.position = c(0.8,0.3),
         legend.title = element_blank(),
-        axis.text=element_text(size=13, colour = "black"),
-        axis.title=element_text(size=13),
+        axis.text=element_text(size=10, colour = "black"),
+        axis.title=element_text(size=10),
         plot.title = element_text(size=10,hjust = 0.5),
         legend.text = element_text(size=10))  +
   labs(x = "", y = "Value",title = "")
