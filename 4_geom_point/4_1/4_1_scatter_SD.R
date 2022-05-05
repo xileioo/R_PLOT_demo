@@ -68,5 +68,5 @@ ggplot() +
   labs(x = "X", y = "Y",title = "")
   
 ggsave(filename = "4_1_scatter_SD.pdf",height = 8,width = 8)
-
+ggsave("4_1_scatter_SD.png",device = "png",height = 8,width = 8)
 
