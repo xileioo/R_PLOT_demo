@@ -6,5 +6,5 @@
 [<img src="./2_geom_smooth/2_1/2_1_geom_smooth_lm_plot.png" height="250">](./2_geom_smooth/2_1)
 [<img src="./2_geom_smooth/2_2/2_2_loess_plot.png" height="250">](./2_geom_smooth/2_2)
 [<img src="./3_geom_line/3_1/3_1_geom_line_plot.png" height="250">](./3_geom_line/3_1/)
-[<img src="./4_geom_point/4_1/3_1_geom_line_plot.png" height="250">](./4_geom_point/4_1/)
+[<img src="./4_geom_point/4_1/4_1_scatter_SD.png" height="250">](./4_geom_point/4_1/)
 
